@@ -2,7 +2,7 @@
   "name": "yeondong.github.io",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://yeondong.github.io/",
+  "homepage": "https://yeondong.github.io/main",
   "dependencies": {
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
